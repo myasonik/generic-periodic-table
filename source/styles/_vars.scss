@@ -7,7 +7,7 @@ $z-index: (
 );
 
 $fallback: Helvetica, Arial, sans-serif;
-$regular: '', $fallback;
+$regular: $fallback;
 $reg: $regular;
 
 // BREAKPOINTS
