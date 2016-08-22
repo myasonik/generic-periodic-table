@@ -2,7 +2,7 @@ module.exports = {
     watch: false,
     prod: false,
     src: 'source/',
-    dest: './output/',
+    dest: './docs/',
     outputJadeIncludes: true,
     watchDest: ['output/**/*', '!output/**/*.html'],
     extensionlessRoutes: false // WARNING: Experimental
